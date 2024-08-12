@@ -5,6 +5,15 @@
 [![pypi Downloads](https://img.shields.io/pypi/dm/ownca)](https://pypistats.org/packages/ownca)
 [![pypi](https://img.shields.io/pypi/l/ownca.svg)](https://pypi.python.org/pypi/ownca)
 
+
+### THIS PROJECT IS OPEN FOR MAINTAINERS
+
+> Development on the OwnCA projects has been stagnated for a while
+> For that reason, I'm opening the organization to new maintainers who will have the proper permissions to unstuck development.
+>
+> Those willing to join, contact me by email with the subject [OwnCA Maintainer] <your name> and please let me know what
+> motivates you to join in such role.
+
 Python Own Certificate Authority (OwnCA)
 ========================================
 
